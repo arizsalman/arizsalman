@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <h1>Muhammad Ariz Salman </h1> 
-<h4>  Hi, I'm Muhammad Ariz , a Software Engineering Student at Virtual University of Pakistan. <h4/>
+<h4>  Hi, I'm Muhammad Ariz , a Software Engineering Student at Virtual University of Pakistan. </h4>
 
-As a software engineer specializing in AI-driven solutions, I excel in developing web (MERN) and mobile (React Native) applications while mentoring students in programming at platforms like iCodeGuru and Aspire Pakistan. With join ISCS experience in global hackathons and coding challenges, I bring innovation and collaboration to every project. My expertise spans Generative AI, LLMs, and advanced tech ecosystems.
+ <p>As a software engineer specializing in AI-driven solutions, I excel in developing web (MERN) and mobile (React Native) applications while mentoring students in programming at platforms like iCodeGuru and Aspire Pakistan. With join ISCS experience in global hackathons and coding challenges, I bring innovation and collaboration to every project. My expertise spans Generative AI, LLMs, and advanced tech ecosystems.</p>
 
 
 
@@ -14,4 +14,9 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
   </a>
 </p>
 
+<p> <h4> Connect with me🤝: </h4> </p>
+
+ <a href=muhammadarizsalman@gmail.com">
+ <a href=Muhammad Ariz Salman">
+ <a href=[Muhammad Ariz](https://lablab.ai/u/@Ariz)">
 
