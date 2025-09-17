@@ -9,7 +9,10 @@
 
 
 ### My Skill Set ⚡  
-
-![HTML5](https://skillicons.dev/icons?i=html),![CSS3](https://skillicons.dev/icons?i=css),[JavaScript](https://skillicons.dev/icons?i=js),[React](https://skillicons.dev/icons?i=react),[Firebase](https://skillicons.dev/icons?i=firebase),[Node.js](https://skillicons.dev/icons?i=nodejs)  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,ai,docker,c,vim,discord,figma,firebase,git,github,gitlab,gmail,js,linkedin,mongodb,mysql,netlify,nextjs,nodejs,notion,npm,postman,py,pytorch,react,sass,tailwind,tensorflow,ts,vite,vscode,vue,windicss   " />
+  </a>
+</p>
 
 
