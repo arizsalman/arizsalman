@@ -1,10 +1,9 @@
 ## Hi there 👋
 
 <h1>Muhammad Ariz Salman </h1> 
-[![GitHub followers](https://img.shields.io/github/followers/arizsalman?label=Followers&style=social)](https://github.com/arizsalman)
-[![GitHub stars](https://img.shields.io/github/stars/arizsalman?label=Stars&style=social)](https://github.com/arizsalman)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arizsalman&theme=radical)](https://git.io/streak-stats)
+<h4>  Hi, I'm Muhammad Ariz , a Software Engineering Student at Virtual University of Pakistan. <h4/>
 
+As a software engineer specializing in AI-driven solutions, I excel in developing web (MERN) and mobile (React Native) applications while mentoring students in programming at platforms like iCodeGuru and Aspire Pakistan. With join ISCS experience in global hackathons and coding challenges, I bring innovation and collaboration to every project. My expertise spans Generative AI, LLMs, and advanced tech ecosystems.
 
 
 
