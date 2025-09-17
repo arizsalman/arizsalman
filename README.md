@@ -10,6 +10,6 @@
 
 ### My Skill Set ⚡  
 
-![HTML5](https://skillicons.dev/icons?i=html),[CSS3](https://skillicons.dev/icons?i=css),[JavaScript](https://skillicons.dev/icons?i=js),[React](https://skillicons.dev/icons?i=react),[Firebase](https://skillicons.dev/icons?i=firebase),[Node.js](https://skillicons.dev/icons?i=nodejs)  
+![HTML5](https://skillicons.dev/icons?i=html),![CSS3](https://skillicons.dev/icons?i=css),[JavaScript](https://skillicons.dev/icons?i=js),[React](https://skillicons.dev/icons?i=react),[Firebase](https://skillicons.dev/icons?i=firebase),[Node.js](https://skillicons.dev/icons?i=nodejs)  
 
 
