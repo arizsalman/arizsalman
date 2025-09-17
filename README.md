@@ -14,9 +14,9 @@
   </a>
 </p>
 
-<p> <h4> Connect with me🤝: </h4> </p>
 
- <a href=muhammadarizsalman@gmail.com">
- <a href=Muhammad Ariz Salman">
- <a href=[Muhammad Ariz](https://lablab.ai/u/@Ariz)">
+<h3>Connect with me 🤝</h3>
 
+<a href="mailto:muhammadarizsalman@gmail.com">📧 Email</a><br>
+<a href="https://www.linkedin.com/in/muhammad-ariz-salman-8a7419305" target="_blank">💼 LinkedIn</a><br>
+<a href="https://github.com/arizsalman" target="_blank">💻 GitHub</a>
