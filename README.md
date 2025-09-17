@@ -9,7 +9,7 @@ As a software engineer specializing in AI-driven solutions, I excel in developin
 
 ### My Skill Set ⚡  
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/arizsalman/arizsalman">
     <img src="https://skillicons.dev/icons?i=git,html,ai,docker,c,vim,discord,figma,firebase,git,github,gitlab,gmail,js,linkedin,mongodb,mysql,netlify,nextjs,nodejs,notion,npm,postman,py,pytorch,react,sass,tailwind,tensorflow,ts,vite,vscode,vue,windicss   " />
   </a>
 </p>
