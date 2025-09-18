@@ -33,3 +33,22 @@
     <a href="https://leetcode.com/u/MuhammadAriz123/" target="_blank"><img src="https://img.shields.io/badge/MuhammadAriz-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a> 
     <a href="https://lablab.ai/u/Muhammad Ariz" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
 </div>
+
+
+
+
+## Connect with me🤝:
+<div align="center">
+  <a href="https://vercel.com/muhammad-arizs-projects" target="_blank">
+    <img src="https://img.shields.io/badge/-muhammad--arizs--projects-000000?style=flat&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-ariz-salman" target="_blank">
+    <img src="https://img.shields.io/badge/-Muhammad%20Ariz%20Salman-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a target="_blank" href="mailto:muhammadarizsalman@gmail.com">
+    <img src="https://img.shields.io/badge/-muhammadarizsalman@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://lablab.ai/u/@Ariz" target="_blank">
+    <img src="https://img.shields.io/badge/-LabLab%20Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/>
+  </a>
+</div>
