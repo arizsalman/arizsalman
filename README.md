@@ -17,6 +17,6 @@
 
 <h3>Connect with me 🤝</h3>
 
-<a href="mailto:muhammadarizsalman@gmail.com">📧 Email</a><br>
+<a href="muhammadarizsalman@gmail.com">📧 Email</a><br>
 <a href="https://www.linkedin.com/in/muhammad-ariz-salman-8a7419305" target="_blank">💼 LinkedIn</a><br>
 <a href="https://github.com/arizsalman" target="_blank">💻 GitHub</a>
