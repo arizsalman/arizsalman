@@ -1,9 +1,7 @@
-<!-- <a href="https://github.com/arhamansari11">
-    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=arizsalman&data=followers,repositories,stars,commits&theme=nautilus">
-</a> -->
-<a href="https://github.com/arhamansari11">
+<a href="https://github.com/arizsalman">
     <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=arizsalman&data=followers,repositories,stars,commits&theme=rgb">
 </a>
+
 <h1>Muhammad Ariz Salman </h1> 
 <h4>  Hi, I'm Muhammad Ariz , a Software Engineering Student at Virtual University of Pakistan. </h4>
 
